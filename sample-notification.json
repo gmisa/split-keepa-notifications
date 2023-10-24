@@ -1,0 +1,403 @@
+{
+    "timestamp": 1697917580582,
+    "tokensLeft": 1200,
+    "refillIn": 32835,
+    "refillRate": 20,
+    "tokenFlowReduction": 6.603749852394685,
+    "tokensConsumed": 0,
+    "processingTimeInMs": 329,
+    "trackings": [
+        {
+            "asin": "B01B1UDJVY",
+            "createDate": 6498110,
+            "ttl": 0,
+            "expireNotify": true,
+            "mainDomainId": 1,
+            "thresholdValues": [
+                {
+                    "thresholdValueCSV": [
+                        6498110,
+                        1104
+                    ],
+                    "domain": 1,
+                    "csvType": 0,
+                    "isDrop": false,
+                    "minDeltaAbsolute": null,
+                    "minDeltaPercentage": null,
+                    "deltasAreBetweenNotifications": null
+                }
+            ],
+            "notifyIf": null,
+            "notificationType": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "notificationCSV": [
+                1,
+                0,
+                5,
+                1,
+                6498384,
+                1,
+                0,
+                5,
+                6,
+                6538504,
+                1,
+                0,
+                5,
+                6,
+                6590492,
+                1,
+                0,
+                5,
+                6,
+                6621504,
+                1,
+                0,
+                5,
+                3,
+                6650688,
+                1,
+                0,
+                5,
+                3,
+                6653494,
+                1,
+                0,
+                5,
+                6,
+                6734432
+            ],
+            "individualNotificationInterval": -1,
+            "wishListId": null,
+            "wishListItemId": null,
+            "lightningDealsAlerts": true,
+            "isActive": true,
+            "updateInterval": 24,
+            "metaData": "{\"id\":\"gid://shopify/Product/8294649463105\",\"price\":\"11.49\",\"cost\":\"10.99\"}",
+            "trackingListName": null,
+            "couponCSV": null
+        },
+        {
+            "asin": "B09GKWBRYM",
+            "createDate": 6508348,
+            "ttl": 0,
+            "expireNotify": true,
+            "mainDomainId": 1,
+            "thresholdValues": [
+                {
+                    "thresholdValueCSV": [
+                        6508348,
+                        11029
+                    ],
+                    "domain": 1,
+                    "csvType": 0,
+                    "isDrop": false,
+                    "minDeltaAbsolute": null,
+                    "minDeltaPercentage": null,
+                    "deltasAreBetweenNotifications": null
+                }
+            ],
+            "notifyIf": null,
+            "notificationType": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "notificationCSV": null,
+            "individualNotificationInterval": -1,
+            "wishListId": null,
+            "wishListItemId": null,
+            "lightningDealsAlerts": true,
+            "isActive": true,
+            "updateInterval": 24,
+            "metaData": "{\"id\":\"gid://shopify/Product/8312469553473\",\"price\":\"111.49\",\"cost\":\"109.99\",\"ratingMetaId\":\"gid://shopify/Metafield/29869142180161\",\"reviewMetaId\":\"gid://shopify/Metafield/29869142212929\"}",
+            "trackingListName": null,
+            "couponCSV": null
+        },
+        {
+            "asin": "B003AVPUZQ",
+            "createDate": 6518004,
+            "ttl": 0,
+            "expireNotify": true,
+            "mainDomainId": 1,
+            "thresholdValues": [
+                {
+                    "thresholdValueCSV": [
+                        6518004,
+                        16096
+                    ],
+                    "domain": 1,
+                    "csvType": 0,
+                    "isDrop": false,
+                    "minDeltaAbsolute": null,
+                    "minDeltaPercentage": null,
+                    "deltasAreBetweenNotifications": null
+                }
+            ],
+            "notifyIf": null,
+            "notificationType": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "notificationCSV": null,
+            "individualNotificationInterval": -1,
+            "wishListId": null,
+            "wishListItemId": null,
+            "lightningDealsAlerts": true,
+            "isActive": true,
+            "updateInterval": 24,
+            "metaData": "{\"id\":\"gid://shopify/Product/8330477076801\",\"price\":\"162.16\",\"cost\":\"160.66\",\"ratingMetaId\":\"gid://shopify/Metafield/29931015962945\",\"reviewMetaId\":\"gid://shopify/Metafield/29931015995713\"}",
+            "trackingListName": null,
+            "couponCSV": null
+        },
+        {
+            "asin": "B015QNBKJK",
+            "createDate": 6516200,
+            "ttl": 0,
+            "expireNotify": true,
+            "mainDomainId": 1,
+            "thresholdValues": [
+                {
+                    "thresholdValueCSV": [
+                        6516200,
+                        659
+                    ],
+                    "domain": 1,
+                    "csvType": 0,
+                    "isDrop": false,
+                    "minDeltaAbsolute": null,
+                    "minDeltaPercentage": null,
+                    "deltasAreBetweenNotifications": null
+                }
+            ],
+            "notifyIf": null,
+            "notificationType": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "notificationCSV": [
+                1,
+                0,
+                5,
+                1,
+                6594416,
+                1,
+                0,
+                5,
+                6,
+                6654140,
+                1,
+                0,
+                5,
+                6,
+                6676242,
+                1,
+                0,
+                5,
+                3,
+                6677824
+            ],
+            "individualNotificationInterval": -1,
+            "wishListId": null,
+            "wishListItemId": null,
+            "lightningDealsAlerts": true,
+            "isActive": true,
+            "updateInterval": 24,
+            "metaData": "{\"id\":\"gid://shopify/Product/8325483495745\",\"price\":\"6.99\",\"cost\":\"6.49\",\"ratingMetaId\":\"gid://shopify/Metafield/29920588529985\",\"reviewMetaId\":\"gid://shopify/Metafield/29920588562753\"}",
+            "trackingListName": null,
+            "couponCSV": null
+        },
+        {
+            "asin": "B00184PC82",
+            "createDate": 6484840,
+            "ttl": 0,
+            "expireNotify": true,
+            "mainDomainId": 1,
+            "thresholdValues": [
+                {
+                    "thresholdValueCSV": [
+                        6484840,
+                        1121
+                    ],
+                    "domain": 1,
+                    "csvType": 0,
+                    "isDrop": false,
+                    "minDeltaAbsolute": null,
+                    "minDeltaPercentage": null,
+                    "deltasAreBetweenNotifications": null
+                }
+            ],
+            "notifyIf": null,
+            "notificationType": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "notificationCSV": [
+                1,
+                0,
+                5,
+                1,
+                6522824,
+                1,
+                0,
+                5,
+                3,
+                6540376,
+                1,
+                0,
+                5,
+                3,
+                6553682,
+                1,
+                0,
+                5,
+                3,
+                6562950,
+                1,
+                0,
+                5,
+                3,
+                6570886,
+                1,
+                0,
+                5,
+                6,
+                6629752,
+                1,
+                0,
+                5,
+                6,
+                6638792,
+                1,
+                0,
+                5,
+                3,
+                6667702
+            ],
+            "individualNotificationInterval": -1,
+            "wishListId": null,
+            "wishListItemId": null,
+            "lightningDealsAlerts": true,
+            "isActive": true,
+            "updateInterval": 24,
+            "metaData": "{\"id\":\"gid://shopify/Product/8275361366337\",\"price\":\"11.66\",\"cost\":\"11.16\"}",
+            "trackingListName": null,
+            "couponCSV": null
+        },
+        {
+            "asin": "B001PZ83WG",
+            "createDate": 6499308,
+            "ttl": 0,
+            "expireNotify": true,
+            "mainDomainId": 1,
+            "thresholdValues": [
+                {
+                    "thresholdValueCSV": [
+                        6499308,
+                        2304
+                    ],
+                    "domain": 1,
+                    "csvType": 0,
+                    "isDrop": false,
+                    "minDeltaAbsolute": null,
+                    "minDeltaPercentage": null,
+                    "deltasAreBetweenNotifications": null
+                }
+            ],
+            "notifyIf": null,
+            "notificationType": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "notificationCSV": null,
+            "individualNotificationInterval": -1,
+            "wishListId": null,
+            "wishListItemId": null,
+            "lightningDealsAlerts": true,
+            "isActive": true,
+            "updateInterval": 24,
+            "metaData": "{\"id\":\"gid://shopify/Product/8297395716417\",\"price\":\"23.49\",\"cost\":\"22.99\"}",
+            "trackingListName": null,
+            "couponCSV": null
+        },
+        {
+            "asin": "B01IA8KAXA",
+            "createDate": 6488880,
+            "ttl": 0,
+            "expireNotify": true,
+            "mainDomainId": 1,
+            "thresholdValues": [
+                {
+                    "thresholdValueCSV": [
+                        6488880,
+                        3305
+                    ],
+                    "domain": 1,
+                    "csvType": 0,
+                    "isDrop": false,
+                    "minDeltaAbsolute": null,
+                    "minDeltaPercentage": null,
+                    "deltasAreBetweenNotifications": null
+                }
+            ],
+            "notifyIf": null,
+            "notificationType": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "notificationCSV": null,
+            "individualNotificationInterval": -1,
+            "wishListId": null,
+            "wishListItemId": null,
+            "lightningDealsAlerts": true,
+            "isActive": true,
+            "updateInterval": 24,
+            "metaData": "{\"id\":\"gid://shopify/Product/8281106579777\",\"price\":\"33.50\",\"cost\":\"33.0\"}",
+            "trackingListName": null,
+            "couponCSV": null
+        }
+    ]
+}
